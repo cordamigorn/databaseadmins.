@@ -1,3 +1,3 @@
 CREATE DATABASE companydb;
-
+USE companydb;
 SHOW DATABASES;
